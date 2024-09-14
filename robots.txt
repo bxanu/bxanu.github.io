@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bxanu.github.io/Rzk/sitemap.Rzk.gz
